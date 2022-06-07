@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(101, 226, 43);
+}
+
+.deleteBox{
+    margin: auto;
+    background-color: aquamarine;
+    
+    width: 30%;
+    
+
+    border: 5px solid black;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    
+}
+
+h2{
+    color: red;
+}
+ 
+    
